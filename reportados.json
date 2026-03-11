@@ -1,7 +1,20 @@
 {
   "Reportados": [
     {
-      
+      "Cedula": null,
+      "Observacion": null,
+      "EmpresaReporta": null,
+      "UsuarioReporta": null,
+      "FechaReporte": "0001-01-01T00:00:00",
+      "IdReporte": null
+    },
+    {
+      "Cedula": "11111111111",
+      "Observacion": "9999999999999997777777777777",
+      "EmpresaReporta": "PRUEBA",
+      "UsuarioReporta": "Usuario",
+      "FechaReporte": "2026-03-11T09:37:09.9223274-04:00",
+      "IdReporte": "00649E7E"
     }
   ]
 }
