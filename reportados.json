@@ -1,22 +1,7 @@
 {
   "Reportados": [
     {
-      "Cedula": "001-1234567-8",
-      "Observacion": "Cliente de prueba - favor ignorar",
-      "EmpresaReporta": null,
-      "UsuarioReporta": null,
-      "FechaReporte": "2026-03-11T08:35:12.1983469-04:00",
-      "IdReporte": null
-    },
-    {
-      "Cedula": "46499467649",
-      "Observacion": "Estoy realizando una prueba",
-      "EmpresaReporta": null,
-      "UsuarioReporta": null,
-      "FechaReporte": "2026-03-11T08:44:23.599082-04:00",
-      "IdReporte": null
-    },
-    {
+      
       "Cedula": "04900856788",
       "Observacion": "Pruebatgjjjgtukgweyjju",
       "EmpresaReporta": "PRUEBA",
