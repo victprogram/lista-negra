@@ -4,6 +4,11 @@
       "Cedula": "001-1234567-8",
       "Observacion": "Cliente de prueba - favor ignorar",
       "FechaReporte": "2026-03-11T08:35:12.1983469-04:00"
+    },
+    {
+      "Cedula": "46499467649",
+      "Observacion": "Estoy realizando una prueba",
+      "FechaReporte": "2026-03-11T08:44:23.599082-04:00"
     }
   ]
 }
