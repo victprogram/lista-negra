@@ -23,6 +23,14 @@
       "UsuarioReporta": "Usuario",
       "FechaReporte": "2026-03-11T09:57:35.4787152-04:00",
       "IdReporte": "5306B85C"
+    },
+    {
+      "Cedula": "44444444444",
+      "Observacion": "Jkskkskskksksjjsjskkskksk",
+      "EmpresaReporta": "PRUEBA",
+      "UsuarioReporta": "Usuario",
+      "FechaReporte": "2026-03-11T10:00:20.9173184-04:00",
+      "IdReporte": "8F0FCBAA"
     }
   ]
 }
