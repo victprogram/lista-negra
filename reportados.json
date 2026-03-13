@@ -1,12 +1,3 @@
 {
-  "Reportados": [
-    {
-      "Cedula": "88888888888",
-      "Observacion": "este usuario no paga",
-      "EmpresaReporta": "PRUEBA",
-      "UsuarioReporta": "Usuario",
-      "FechaReporte": "2026-03-11T21:19:34.7742609-04:00",
-      "IdReporte": "3A29CA47"
-    }
-  ]
+  "Reportados": [ ]
 }
