@@ -1,3 +1,12 @@
 {
-  "Reportados": [ ]
+  "Reportados": [
+    {
+      "Cedula": "33333333333",
+      "Observacion": "Ghhvhfghgghhhhgrhhtttt",
+      "EmpresaReporta": "GRAPE PRUEBA",
+      "UsuarioReporta": "Usuario",
+      "FechaReporte": "2026-04-03T23:42:42.7487188-04:00",
+      "IdReporte": "7D690C69"
+    }
+  ]
 }
