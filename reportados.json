@@ -7,6 +7,14 @@
       "UsuarioReporta": "Usuario",
       "FechaReporte": "2026-09-16T00:22:51.5593905-05:00",
       "IdReporte": "74A65CB5"
+    },
+    {
+      "Cedula": "1005839884",
+      "Observacion": "no ha pagado justo a tiempo",
+      "EmpresaReporta": "CRÉDITOS MB",
+      "UsuarioReporta": "Usuario",
+      "FechaReporte": "2026-10-06T09:23:39.6162306-05:00",
+      "IdReporte": "8580AE5A"
     }
   ]
 }
