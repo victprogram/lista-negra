@@ -5,7 +5,7 @@
       "Observacion": "No pago pero esta un celular para vender",
       "EmpresaReporta": "PRÉSTAMOS MARIANA",
       "UsuarioReporta": "Usuario",
-      "FechaReporte": "2026-09-15T22:22:51.5593905-07:00",
+      "FechaReporte": "2026-09-16T00:22:51.5593905-05:00",
       "IdReporte": "74A65CB5"
     },
     {
@@ -13,7 +13,7 @@
       "Observacion": "no ha pagado justo a tiempo",
       "EmpresaReporta": "CRÉDITOS MB",
       "UsuarioReporta": "Usuario",
-      "FechaReporte": "2026-10-06T07:23:39.6162306-07:00",
+      "FechaReporte": "2026-10-06T09:23:39.6162306-05:00",
       "IdReporte": "8580AE5A"
     },
     {
@@ -21,8 +21,16 @@
       "Observacion": "No responde llamadas",
       "EmpresaReporta": "Financiera Demo",
       "UsuarioReporta": "Usuario",
-      "FechaReporte": "2026-11-11T18:26:55.4014349-08:00",
+      "FechaReporte": "2026-11-11T21:26:55.4014349-05:00",
       "IdReporte": "DC539E03"
+    },
+    {
+      "Cedula": "573006324202",
+      "Observacion": "debido al no pago de ninguna de las cuotas se le sumará el 20% al saldo actual",
+      "EmpresaReporta": "FINANCIAS DELIS",
+      "UsuarioReporta": "Usuario",
+      "FechaReporte": "2026-11-12T21:17:28.5523306-05:00",
+      "IdReporte": "D53911A9"
     }
   ]
 }
